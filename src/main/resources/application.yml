@@ -1,0 +1,7 @@
+server:
+  port: 9001
+kafkaServer:
+  server: 10.1.11.44:9092
+  topic: tommy
+  partition: 0
+  group-id: tommy
