@@ -3,5 +3,5 @@ server:
 kafkaServer:
   server: 10.1.11.44:9092
   topic: tommy
-  partition: 0
+  partition: 0,1,2
   group-id: tommy
